@@ -1,1 +1,20 @@
-//fonts css
+@font-face {
+    font-family: 'Atlas Grotesk';
+    src: url('../fonts/AtlasGrotesk-Thin-Cy-Trial-BF662b107d23f89.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atlas Typewriter';
+    src: url('../fonts/AtlasTypewriter-LightItalic-Cy-Trial-BF662b107b9e2ff.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Atlas Typewriter';
+    src: url('../fonts/AtlasTypewriter-RegularItalic-Cy-Trial-BF662b107bbf9f0.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+}
